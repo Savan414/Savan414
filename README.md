@@ -1,9 +1,5 @@
 ### Hi there I'm Savan 👋
 
-<!--
-**Savan414/Savan414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building some portfolio projects
 - 🌱 I’m currently learning Microservices development using Spring Boot
@@ -13,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bsavan414@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid biohacker and advocate for Physical and mental health
--->
+
 
 ### Connect with me:
 
